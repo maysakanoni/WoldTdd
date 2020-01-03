@@ -1,0 +1,14 @@
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/obj/Debug/netcoreapp2.2/WolfTdd.csprojAssemblyReference.cache
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/obj/Debug/netcoreapp2.2/WolfTdd.csproj.CoreCompileInputs.cache
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/obj/Debug/netcoreapp2.2/WolfTdd.AssemblyInfoInputs.cache
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/obj/Debug/netcoreapp2.2/WolfTdd.AssemblyInfo.cs
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/WolfTdd.deps.json
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/WolfTdd.runtimeconfig.json
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/WolfTdd.runtimeconfig.dev.json
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/WolfTdd.dll
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/bin/Debug/netcoreapp2.2/WolfTdd.pdb
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/obj/Debug/netcoreapp2.2/WolfTdd.dll
+/Users/maysakanoni/RiderProjects/WolfTdd/WolfTdd/obj/Debug/netcoreapp2.2/WolfTdd.pdb
